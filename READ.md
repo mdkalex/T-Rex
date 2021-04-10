@@ -9,7 +9,7 @@ Developer fee is 1% (2% for Octopus).
 ## Usage
 
 Full list of command line options:
-```
+
     -a, --algo                     Specify the hash algorithm to use.
                                    astralhash
                                    balloon
@@ -198,7 +198,6 @@ Full list of command line options:
         --fan                      Set fan speed in percent. Must be within [0, 100] range. (default: 0 - disabled)
 
 
-```
 
 ### Examples
 * **ETH+ZIL-shardpool**</br>
